@@ -1,4 +1,4 @@
-# App Delivery Restaurant Orders Project
+# Restaurant Orders and Insights Project
 
 This project is an exploratory analysis of restaurant sales and customer satisfaction performance using data which have been captured through orders made on a food delivery app. The goal is to draw insights and conclusions to benefit the food delivery management team to discover what could influence higher restaurant sales and better customer ratings by comparing data metrics such as restaurants, zones, cuisines, delivery time and quality, and customer food ratings.
 
