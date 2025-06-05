@@ -39,7 +39,8 @@ The data used is hypothetical and represents 500 orders placed across 20 restaur
 All files are available in the GitHub repository under their respective folders:
 
 /dashboard
-	- restaurant_orders_dashboard.pbix
+	- dashboard_screenshot.png
+ 	- restaurant_orders_dashboard.pbix
 
 /data
 	- dirty_orders.csv
